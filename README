@@ -2,3 +2,19 @@ Mayck Xavier - 2011-04-15 - contato@mayckxavier.com
 
 Script simples de backup escrito em Python
 Simple backup script written in Python
+
+Uso:
+1 - Configure os diretórios de backup e destino no script com um simples editor de textos
+2 - Dê permissão de execussão ao pybackup.py:
+	chmod +x pybackup.py
+3 - Execute o script
+	./pybackup.py
+
+
+
+Usage:
+1 - First of all, you need to type the backup dirs and backup destiny on the script. You can use a simple text editor
+2 - Change the file's permission
+	chmod +x pybackup.py
+3 - Run the script
+	./pybackup.py
